@@ -1,2 +1,2 @@
 # Git
-This Repository contains all the things a did while learning the git
+This Repository contains all the things i did while learning the git
