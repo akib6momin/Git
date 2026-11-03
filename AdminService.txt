@@ -1,0 +1,5 @@
+this file conatins all the admin details
+and activities
+
+this file is contained by feature1 branch
+and not visible in main branch
